@@ -1,0 +1,28 @@
+.brands {
+    padding: 60px 55px;
+    background-color: var(--yellow);
+
+}
+
+.brands__list {
+    display: flex;
+    column-gap: 120px;
+    mix-blend-mode: multiply;
+}
+
+/*Medoa*/
+
+@media (max-width: 768px) {
+    .brands__list {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+}
+
+
+@media (min-width: 769px) {
+    .brands__list {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}

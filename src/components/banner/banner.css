@@ -1,0 +1,135 @@
+.banner {
+    background-color: rgba(255, 232, 102, 1);
+
+}
+
+.banner__main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+
+.banner__content {
+    display: flex;
+    column-gap: 24px;
+    padding-top: 77px;
+    padding-left: 120px;
+}
+
+.banner__img {
+    max-width: 50%;
+    height: auto;
+
+}
+
+.banner__text {
+
+    max-width: 480px;
+    margin-bottom: 40px;
+
+
+}
+
+.banner__span {
+
+    font-weight: 900;
+    font-size: 86px;
+
+
+}
+
+.banner__spend {
+    font-size: 26px;
+    line-height: 52px;
+    letter-spacing: -2%;
+    margin-bottom: 15px;
+}
+
+.banner__highlight {
+    position: relative;
+    display: inline-block;
+    font-size: 111px;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+
+.banner__highlight span {
+    position: relative;
+    z-index: 1;
+}
+
+.banner__highlight::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -12px;
+    bottom: -12px;
+    left: -20px;
+    right: -60px;
+    background-color: #fff;
+    transform: rotate(-2deg);
+}
+
+.banner__highlight--yellow::before {
+    background-color: var(--yellow);
+    right: -110px;
+}
+
+.banner__suptitle {
+    font-size: 26px;
+    font-weight: 900;
+    letter-spacing: -2%;
+}
+
+.banner__terms {
+    font-size: 23px;
+    letter-spacing: -2%;
+}
+
+.banner__btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 18px 40px;
+    background-color: #000000;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.5;
+    color: #fff;
+}
+
+/*Media*/
+
+@media (max-width: 768px) {
+    .banner__content {
+        flex-direction: column;
+    }
+
+    .banner__img {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .banner__text {
+        max-width: 100%;
+    }
+}
+
+
+@media (min-width: 769px) {
+    .banner__content {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .banner__img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .banner__text {
+        max-width: 100%;
+    }
+}

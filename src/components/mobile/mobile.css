@@ -1,0 +1,78 @@
+.mobile__main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+
+
+}
+
+.mobile__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+.mobile__title {
+
+    font-size: 43px;
+    font-weight: 900;
+
+    margin-bottom: 55px;
+}
+
+.mobile__description {
+    font-size: 23px;
+    opacity: 0.5;
+    line-height: 35px;
+    text-align: center;
+    margin-bottom: 55px;
+
+}
+
+.mobile__apps img {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.mobile__phone img {
+    width: 70%;
+    height: auto;
+}
+
+/*Media*/
+
+@media (max-width: 768px) {
+    .mobile__main {
+        flex-direction: column-reverse;
+    }
+
+    .mobile__text {
+        margin-bottom: 20px;
+    }
+
+    .mobile__title {
+        font-size: 32px;
+    }
+
+    .mobile__description {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+}
+
+
+@media (min-width: 769px) {
+    .mobile__main {
+        flex-direction: row;
+    }
+
+    .mobile__text {
+        margin-right: 20px;
+        max-width: 100%;
+        overflow: hidden;
+    }
+}
