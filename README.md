@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Normal React layout on the layout of Figma, without functionality and adaptive (adaptive is crooked, the emphasis is more on the layout).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
