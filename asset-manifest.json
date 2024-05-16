@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/AlterEnok/Fashion/static/css/main.d37e7c67.css",
-    "main.js": "/AlterEnok/Fashion/static/js/main.0c0a9c81.js",
-    "static/media/header-img.jpg": "/AlterEnok/Fashion/static/media/header-img.04c4840f1ac9b5280e62.jpg",
-    "static/media/promo-img.jpg": "/AlterEnok/Fashion/static/media/promo-img.1bcf0106ea69eb6f15e9.jpg",
-    "static/media/vouchers-img.png": "/AlterEnok/Fashion/static/media/vouchers-img.8312cec99c62c682d230.png",
-    "static/media/cat-03.jpg": "/AlterEnok/Fashion/static/media/cat-03.eb7b961d3b91a131fa9d.jpg",
-    "static/media/cat-01.jpg": "/AlterEnok/Fashion/static/media/cat-01.2172bcd59fc32be2c0f9.jpg",
-    "static/media/cat-02.jpg": "/AlterEnok/Fashion/static/media/cat-02.5d775bc4f57febe12b74.jpg",
-    "static/media/Amazon.png": "/AlterEnok/Fashion/static/media/Amazon.8147eaff712ddbb636a0.png",
-    "static/media/Shopify.png": "/AlterEnok/Fashion/static/media/Shopify.bf70fa9caf43cad1e916.png",
-    "static/media/logo.svg": "/AlterEnok/Fashion/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
-    "static/media/inst.svg": "/AlterEnok/Fashion/static/media/inst.732079676e1f1e8f5ab8d3607bb89ff5.svg",
-    "static/media/tw.svg": "/AlterEnok/Fashion/static/media/tw.28bd6c068f25e4ae67cd362b1da1f8d2.svg",
-    "static/media/in.svg": "/AlterEnok/Fashion/static/media/in.e36441e360ccd4bc3466cb67982a374d.svg",
-    "index.html": "/AlterEnok/Fashion/index.html",
-    "static/media/arrow.svg": "/AlterEnok/Fashion/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
-    "static/media/fb.svg": "/AlterEnok/Fashion/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
-    "static/media/decor-yellow.svg": "/AlterEnok/Fashion/static/media/decor-yellow.1cde02ab1a06cdaddfa4.svg",
-    "main.d37e7c67.css.map": "/AlterEnok/Fashion/static/css/main.d37e7c67.css.map",
-    "main.0c0a9c81.js.map": "/AlterEnok/Fashion/static/js/main.0c0a9c81.js.map"
+    "main.css": "/Fashion/static/css/main.fafa8828.css",
+    "main.js": "/Fashion/static/js/main.d3052fd6.js",
+    "static/media/header-img.jpg": "/Fashion/static/media/header-img.04c4840f1ac9b5280e62.jpg",
+    "static/media/promo-img.jpg": "/Fashion/static/media/promo-img.1bcf0106ea69eb6f15e9.jpg",
+    "static/media/vouchers-img.png": "/Fashion/static/media/vouchers-img.8312cec99c62c682d230.png",
+    "static/media/cat-03.jpg": "/Fashion/static/media/cat-03.eb7b961d3b91a131fa9d.jpg",
+    "static/media/cat-01.jpg": "/Fashion/static/media/cat-01.2172bcd59fc32be2c0f9.jpg",
+    "static/media/cat-02.jpg": "/Fashion/static/media/cat-02.5d775bc4f57febe12b74.jpg",
+    "static/media/Amazon.png": "/Fashion/static/media/Amazon.8147eaff712ddbb636a0.png",
+    "static/media/Shopify.png": "/Fashion/static/media/Shopify.bf70fa9caf43cad1e916.png",
+    "static/media/logo.svg": "/Fashion/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
+    "static/media/inst.svg": "/Fashion/static/media/inst.732079676e1f1e8f5ab8d3607bb89ff5.svg",
+    "static/media/tw.svg": "/Fashion/static/media/tw.28bd6c068f25e4ae67cd362b1da1f8d2.svg",
+    "static/media/in.svg": "/Fashion/static/media/in.e36441e360ccd4bc3466cb67982a374d.svg",
+    "index.html": "/Fashion/index.html",
+    "static/media/arrow.svg": "/Fashion/static/media/arrow.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/fb.svg": "/Fashion/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
+    "static/media/decor-yellow.svg": "/Fashion/static/media/decor-yellow.1cde02ab1a06cdaddfa4.svg",
+    "main.fafa8828.css.map": "/Fashion/static/css/main.fafa8828.css.map",
+    "main.d3052fd6.js.map": "/Fashion/static/js/main.d3052fd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d37e7c67.css",
-    "static/js/main.0c0a9c81.js"
+    "static/css/main.fafa8828.css",
+    "static/js/main.d3052fd6.js"
   ]
 }
